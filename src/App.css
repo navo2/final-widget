@@ -1,0 +1,23 @@
+.FirstSemiFinal{
+  height: 250px;
+  width: 300px;
+  background-image: url('./asset/WC_1st\ Semi\ A.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0;
+}
+
+
+
+.clockMaliban{
+  padding-top: 138px;
+  width: fit-content;
+  padding-left: 30px;
+}
+
+.lastImg{
+  height: 250px;
+  width: 300px;
+  margin: 0;
+}
